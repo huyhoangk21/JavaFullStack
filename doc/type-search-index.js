@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.hoangle","l":"ChangeCalculator"},{"p":"com.hoangle","l":"Cube"},{"p":"com.hoangle","l":"CubeDriver"}]
